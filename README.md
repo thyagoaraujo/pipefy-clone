@@ -4,7 +4,7 @@ Pipefy interface clone made with ReactJS, Drag and Drop
 
 ### Demo
 
-![Demo](demo.gif)
+[Live Preview](https://pipefy-clone.netlify.com/)
 
 ## :rocket: Technologies
 
